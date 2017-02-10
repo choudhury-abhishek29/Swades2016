@@ -1,0 +1,81 @@
+<div class="container">
+			<div class="row">
+				<div class="[ col-xs-12 col-sm-offset-2 col-sm-8 ]">
+					<ul class="event-list">
+						<li>
+							<time datetime="2016-09-29">
+								<span class="day">29</span>
+								<span class="month">Sep</span>
+								<span class="year">2014</span>
+							</time>
+							<img alt="The Saffron Table" src="img/saffron-table.jpg" />
+							<div class="info">
+								<h2 class="title">The Saffron Table</h2>
+								<p class="desc">Meet and Greet</p>
+								<ul>
+									<li style="width:50%;">EVENT FINISHED</li>
+								</ul>
+							</div>
+							<div class="social">
+								<ul>
+									<li class="facebook" style="width:33%;"><a href="https://www.facebook.com/groups/SwadesAtSCU/921035378000922/?notif_t=group_activity&notif_id=1475041054281234" target="_blank"><span class="fa fa-facebook"></span></a></li>
+								<!--	<li class="twitter" style="width:34%;"><a href="#twitter"><span class="fa fa-twitter"></span></a></li>
+									<li class="google-plus" style="width:33%;"><a href="#google-plus"><span class="fa fa-google-plus"></span></a></li>	-->
+								</ul>
+							</div>
+						</li>
+
+						<li>
+							<time datetime="2014-07-20 0000">
+								<span class="day"></span>
+								<span class="month">Soon</span>
+								<span class="year">2014</span>
+							</time>
+							<img alt="Independence Day" src="https://farm4.staticflickr.com/3100/2693171833_3545fb852c_q.jpg" />
+							<div class="info">
+								<h2 class="title">Diwali Dhamaka</h2>
+								<p class="desc">Diwali</p>
+								<ul>
+								<!--	<li style="width:50%;"><a href="#website"><span class="fa fa-globe"></span> Website</a></li>	-->
+									<li style="width:50%;">RSVP</li>
+								</ul>
+							</div>
+							<div class="social">
+								<ul>
+									<li class="facebook" style="width:33%;"><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+								<!--	<li class="twitter" style="width:34%;"><a href="#twitter"><span class="fa fa-twitter"></span></a></li>
+									<li class="google-plus" style="width:33%;"><a href="#google-plus"><span class="fa fa-google-plus"></span></a></li>	-->
+								</ul>
+							</div>
+						</li>
+
+						<li>
+							<time datetime="2014-07-20 2000">
+								<span class="day"></span>
+								<span class="month">SOON</span>
+								<span class="year">2014</span>
+								<span class="time">8:00 PM</span>
+							</time>
+							<img alt="My 24th Birthday!" src="img/freshers.jpg" />
+							<div class="info">
+								<h2 class="title">FRESHERS' PARTYYY...!!!</h2>
+								<p class="desc">Welcome Freshers</p>
+								<ul>
+									<li style="width:50%;">RSVP</li>
+								<!--	<li style="width:33%;">1 <span class="glyphicon glyphicon-ok"></span></li>
+									<li style="width:34%;">3 <span class="fa fa-question"></span></li>
+									<li style="width:33%;">103 <span class="fa fa-envelope"></span></li>	-->
+								</ul>
+							</div>
+							<div class="social">
+								<ul>
+									<li class="facebook" style="width:33%;"><a href="#facebook"><span class="fa fa-facebook"></span></a></li>
+								<!--	<li class="twitter" style="width:34%;"><a href="#twitter"><span class="fa fa-twitter"></span></a></li>
+									<li class="google-plus" style="width:33%;"><a href="#google-plus"><span class="fa fa-google-plus"></span></a></li>	-->
+								</ul>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
